@@ -1,7 +1,8 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    cout << "\t\tThis is a project to practice Object Oriented Programming :)\n";
 }
 
